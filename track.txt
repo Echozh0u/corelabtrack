@@ -1,0 +1,33 @@
+www.jype.com
+
+20.39.186.202
+37.566309;126.977207
+110 Sejong-daero, Jung-gu, Seoul, Korea
+
+
+96.239.56.1
+40.713192;-74.006065
+272 Broadway, New York, NY 10007 
+City Hall
+
+130.81.171.228
+40.713192; -74.006065
+272 Broadway, New York, NY 10007
+
+140.222.1.135
+40.713192; -74.006065
+
+104.44.43.105
+40.540094 -74.466195
+505 Sidney Rd, Piscataway, NJ 08854
+Piscataway Housing Department
+
+
+
+
+Seoul: 	Ewha Womans University 
+
+
+NewYork: The New School
+
+Piscataway: Rutgers, The State University of New Jersey
